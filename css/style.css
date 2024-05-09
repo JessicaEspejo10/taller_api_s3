@@ -1,0 +1,15 @@
+body {
+    font-family: 'Comic Sans MS';
+
+
+}
+
+p, ul {
+    font-size: small;
+}
+
+img {
+
+    margin: 2% 15% 5% 15%;
+    width: 70%;
+}
